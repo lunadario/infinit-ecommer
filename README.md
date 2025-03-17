@@ -31,7 +31,7 @@ Project in which I actively contributed with my colleagues where a large human g
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/castrojonathand/proyecto-integrador-ecommerce.git
+   git clone https://github.com/lunadario/infinit-ecommer.git
    ```
 
 2. Install dependencies
